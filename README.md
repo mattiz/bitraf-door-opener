@@ -1,7 +1,6 @@
 # Bitraf door opener
 
-![](screenshots/app-without-background.png)
-![](screenshots/menu.png)
+![](screenshots/start.png)
 
 ## Development setup
 
@@ -26,7 +25,7 @@ fitbit$ bi
 ## Deployment
 1. Build app using the instructions above
 2. Log in to - https://gam.fitbit.com
-3. Create app and upload `build/app.fba- https://gam.fitbit.com/`
+3. Create app and upload `build/app.fba`
 
 
 ## Resources
