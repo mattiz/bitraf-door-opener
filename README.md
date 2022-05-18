@@ -1,4 +1,4 @@
-# Garage door opener
+# Bitraf door opener
 
 ![](screenshots/app-without-background.png)
 ![](screenshots/menu.png)

@@ -12,9 +12,9 @@
   fill: white;
 }
 
-.application-fill           { fill: fb-yellow; }
+.application-fill           { fill: #e4e2da; }
 .foreground-fill            { fill: fb-white; }
-.background-fill            { fill: fb-black; }
+.background-fill            { fill: #f05012; }
 
 #openButton #text {
   text-buffer: "OPEN";
